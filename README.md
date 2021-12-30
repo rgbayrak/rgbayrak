@@ -1,6 +1,6 @@
-### Hi there 👋 my name is Roza. I am a PhD student in the NEURDY Lab (https://github.com/neurdylab)
-Pronouns: She/her
-Find me on twitter! @redgreenblues
+### Hi there 👋 my name is Roza. I am a PhD student in the NEURDY Lab (https://github.com/neurdylab) </br>
+Pronouns: She/her </br>
+Find me on twitter! @redgreenblues </br>
 
 - 🤓 I’m currently working on developing models to find generalizable mappings between observed data and biomarkers of human cognition and behavior!
 - 👩🏻‍💻 I’m currently learning about Open Science; Ethical AI and Reproducibility practices. 
