@@ -2,6 +2,6 @@
 Pronouns: She/her </br>
 Find me on twitter! @redgreenblues </br>
 
-- 🤓 I’m currently working on developing models to find generalizable mappings between observed data and biomarkers of human cognition and behavior!
-- 👩🏻‍💻 I’m currently learning about Open Science; Ethical AI and Reproducibility practices. 
+- 🤓 Working on developing models to find generalizable mappings between observed data and biomarkers of human cognition and behavior!
+- 👩🏻‍💻 Currently learning about Open Science; Ethical AI and Reproducibility practices. 
 - 🙃 Fun fact: I would have loved to be a nomadic researcher, if the opportunity presented itself! 
