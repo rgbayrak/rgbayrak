@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Roza. I am a PhD student in the NEURDY Lab (https://github.com/neurdylab) </br>
-OHBM OS-SIG, Open Science Room Chair
-Women of VISE (Vanderbilt Institute of Surgery and Engineering), President
+OHBM OS-SIG, Open Science Room Chair </br>
+Women of VISE (Vanderbilt Institute of Surgery and Engineering), President  </br>
 Pronouns: She/her </br>
 Find me on twitter! @redgreenblues </br>
 
