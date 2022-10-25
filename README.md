@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Roza. I am a PhD student in the NEURDY Lab (https://github.com/neurdylab) </br>
+### Hi there 👋 my name is Roza. I am a PhD candidate in the NEURDY Lab (https://github.com/neurdylab). Looking for a job and prepping for my defense in Fall 2022. </br>
 
 - 🤓 Working on developing models to find generalizable mappings between observed data and biomarkers of human cognition and behavior!
 - 👩🏻‍💻 Currently learning about Open Science; Ethical AI and Reproducibility practices. 
