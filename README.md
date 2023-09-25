@@ -1,4 +1,5 @@
-### Hi there 👋 my name is Roza. I am a Research Assistant Professor in Computer Science at Vanderbilt University. </br>
+### Hi there 👋 my name is Roza. 
+### I am a Research Assistant Professor in Computer Science at Vanderbilt University, affiliated with @neurdylab. </br>
 
 - 🤓 Working on developing models to find generalizable mappings between observed data and biomarkers of human cognition and behavior!
 - 👩🏻‍💻 Currently learning about Open Science; Ethical AI and Reproducibility practices. 
