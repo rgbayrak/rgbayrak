@@ -2,7 +2,7 @@
 ### I work at Vanderbilt University, am affiliated with @neurdylab. </br>
 
 I am currently: 
-- 🤓 Working on developing models generalizable functional MRI frameworks using self-supervised learning. 
+- 🤓 Working on developing generalizable functional MRI models using self-supervised learning. 
 - 👩🏻‍💻 Learning about Open Science; Ethical AI and Reproducibility practices.
 
 🙃 Fun fact: I would have loved to be a nomadic researcher, if the opportunity presented itself! </br>
