@@ -9,7 +9,6 @@ I am currently:
 
 [NEURDY Lab](https://github.com/neurdylab), Alumni </br>
 [BrainHack Vanderbilt](https://brainhack-vandy.github.io), Chair, 2024 </br>
-OHBM [OS-SIG](https://ossig.netlify.app/), [Hackathon](https://ohbm.github.io/hackathon2024), Co-Chair Elect, 2024 </br>
 OHBM [OS-SIG](https://ossig.netlify.app/), [Open Science Room](https://ohbm.github.io/osr2022/volunteers/), Past Chair, 2022 </br>
 Women of [VISE](https://www.vanderbilt.edu/vise/) (Vanderbilt Institute of Surgery and Engineering), Past President, 2022 </br>
 Pronouns: She/her </br>
