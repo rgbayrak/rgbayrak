@@ -1,5 +1,5 @@
 ### Hi there 👋 my name is Roza. 
-### Since 2023, I work at Vanderbilt University, am affiliated with @neurdylab. </br>
+#### I work at Vanderbilt University, am affiliated with @neurdylab. </br>
 
 🙃 Fun fact: I am a painter and also learning the piano nowadays. </br>
 
